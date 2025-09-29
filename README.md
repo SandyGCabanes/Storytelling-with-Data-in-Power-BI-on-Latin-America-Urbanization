@@ -22,4 +22,4 @@ Narrative:
 
 ![page3](3.growth.PNG)
 
-![about](about_picture.PNG)
+![about](0.about_picture.PNG)
